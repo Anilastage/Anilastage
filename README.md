@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Anilastage
-- 👀 I’m interested in full stqck 
+- 👀 I’m interested in full stack 
 - 🌱 I’m currently learning tycs
 - 💞️ I’m looking to collaborate on projects related to react and flutter 
 - 📫 How to reach me?.... here is my insta id @xx__demons__d__play__xx
-- 😄 Pronouns: anil (trickfirst)
+- 😄 Pronouns: anil (anitrick or trickfirst)
 - ⚡ Fun fact: i learn everthing in mintues and forget it after the job is done 
 
 <!---
